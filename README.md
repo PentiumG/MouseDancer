@@ -1,2 +1,4 @@
 
-Syntax highlighted code block
+###저 이거대해서 잘 몰라요
+
+걍 exe파일이나 apk파일만 올릴 예정입니다.
